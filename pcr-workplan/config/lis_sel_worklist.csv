@@ -1,0 +1,14 @@
+source,field,type
+"FIELD1","lisid",1
+"FIELD2","sample",1
+"FIELD3","name",2
+"FIELD4","birthday",5
+"FIELD5","gender",1
+"FIELD6","record",1
+"FIELD7","state_id_1_type",1
+"FIELD8","state_id_1",1
+"FIELD9","department",1
+"FIELD10","department_code",1
+"FIELD11","test_code",1
+"FIELD12","sample_date",5
+"FIELD13","result",1

@@ -1,0 +1,8 @@
+parameter,value
+"experiments_folder","data\\experiments"
+"worklist_folder","data\\upload"
+"sample_expression","[a-zA-Z]\\d{5}"
+"db_host","DBHOST"
+"db_database","DBTABLESPACE"
+"db_user","DBUSER"
+"db_password","DBPASSWORD"
