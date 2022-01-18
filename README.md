@@ -1,1 +1,5 @@
 # pcr-workplan
+
+This repository contains a Python GUI application to manage the workflow of laboratory PCR assays. It produces, for each assay run, a PDF worklist with multiple sections, including relevant notes for the assay procedure, a list of reaction consumables whose quantities are automatically calculated according to the assay protocol and the number and type of the samples in the run, a graphical layout of the PCR plate, and a table with sample data with barcoded IDs to ease the interaction with the laboratory information system. This application supports multiple extensibly configurable assay protocols and plug-in modules that can be used to create specific data files for the PCR analyzers. The sample data table was custom tailored for COVID-19 related PCR tests, showing some of the patient's previous test results. The application was rapidly developed in the wake of the COVID-19 pandemic to assist the then recently created virology section, for which I'm also co-responsible.
+
+This README file is a work in progress.
